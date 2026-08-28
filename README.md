@@ -85,16 +85,6 @@ Morphological Opening            Morphological Closing        Structuring Elemen
 │   └── Neg4.jpg
 └── README.md                                                    # Project Documentation & Viva Guide
 ```
-
----
-
-## 🚀 How to Run in Google Colab
-
-1. Open [Google Colab](https://colab.research.google.com).
-2. Click **File ➔ Upload Notebook** and select `Medical-Image-Morphological-Processing-Using-Brain-MRI.ipynb`.
-3. Click **Runtime ➔ Run all** (or press `Ctrl + F9` / `Cmd + F9`).
-4. All 9 code cells execute in ~2 seconds on any CPU.
-
 ---
 
 ## 🗣️ How to Present This Project in Class (10-Step Walkthrough)
